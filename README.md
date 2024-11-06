@@ -15,7 +15,7 @@ Legend: A legend on the map explains the color gradient for earthquake depth, en
 
 Fetch Earthquake Data: The map uses live data from the USGS GeoJSON Feed. Select the desired earthquake dataset to visualize.
 
-Run the Project: Open index.html in a web browser to view the interactive map.
+Run the Project: Open index.html in a web browser to view the interactive map. (file:///Users/juansegovia/Desktop/Classwork%20Projects/leaflet-challenge/index.html)
 
 ### Usage
 Viewing Earthquake Data: Open the map and explore recent earthquake events worldwide. Each marker provides popup information on location, magnitude, depth, and time.
